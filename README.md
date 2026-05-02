@@ -1,44 +1,66 @@
- # Hi, I'm Mohamed Harhash 👋
+# Hi, I'm Mohamed Harhash 👋
 
-> Machine Learning Engineer in Training | Data Analyst | Python Enthusiast
+<div align="center">
 
-I'm an Egyptian ML practitioner passionate about turning raw data into meaningful decisions.  
-Currently building hands-on projects in supervised learning, data analysis, and visualization.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&width=435&lines=Data+Analyst+%7C+ML+Enthusiast;Turning+raw+data+into+insights;Open+to+opportunities!)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔍 Passionate about turning **raw data** into clear, actionable insights
+- 🤖 Currently learning **Machine Learning & Deep Learning**
+- 🛠️ Building hands-on projects in **data analysis & visualization**
+- 📍 Based in **Egypt** | Open to remote opportunities
+- 💬 Ask me about **Python, Pandas, Data Visualization**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter`
-
-**Currently Learning**
-`Machine Learning` `Feature Engineering` `Model Evaluation` `Deep Learning (upcoming)`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EACC5?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Tools |
-|---------|-------------|-------|
-| [Netflix Users Analysis](https://github.com/harhash891/netflix_users) | Exploratory analysis of 2,500+ Netflix subscribers | Python, Pandas, Seaborn |
-| [Shopping Trends](https://github.com/harhash891/shopping_trends) | Consumer behavior patterns & seasonal insights | Python, Matplotlib |
-| [VNL 2023](https://github.com/harhash891/VNL2023) | Volleyball Nations League stats analysis | Python, Pandas |
+|--------|-------------|-------|
+| [📺 Netflix Userbase Analysis](https://github.com/harhash891/Netflix_Userbase) | Exploratory analysis on Netflix subscription trends | Python, Pandas, Seaborn |
+| [🛍️ Shopping Trends](https://github.com/harhash891/shopping_trends) | Consumer behavior insights with statistical analysis | Python, Matplotlib |
+| [🏐 VNL 2023](https://github.com/harhash891/VNL2023) | Volleyball Nations League performance stats breakdown | Python, Pandas |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harhash891&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harhash891&layout=compact&hide_border=true)
+<div align="center">
 
----
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harhash891&show_icons=true&theme=default&hide_border=true)
 
-## 📬 Let's Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harhash891&layout=compact&theme=default&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Harhash-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-handle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-harhash891-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/harhash891)
+</div>
 
 ---
 
-*"Data is the new oil — but insight is the refinery."*
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE-HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harhash891)
+
+---
+
+<div align="center">
+  <i>⭐ If you find my work useful, feel free to star a repo!</i>
+</div>
